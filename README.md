@@ -1,9 +1,0 @@
-# ALPHA-RT - Final V2 Reconnu
-
-Version officielle gardee par user:
-- Header ALPHA-RT seulement, pas de version
-- FERME: si ATTENDRE => pas de bouton Passer Ordre, affiche "Pas de signal - ordre bloqué"
-- 15 API, 18 indicateurs, multi-TF confluence 1m/5m/15m/1H, order book live, Fear&Greed
-
-Deploy: GitHub Pages via workflow .github/workflows/deploy.yml
-Build: npm install && npm run build
